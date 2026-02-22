@@ -27,18 +27,28 @@ Experiments use the original `data_collection/scene_data` dataset plus `example_
 
 ### Flowcharts
 
-| Description | Link |
-|-------------|------|
-| Final pipeline | [final_flowchart.png](https://drive.google.com/file/d/1Rv_2gpI6L-ydxVk8aOVCGXvxgqmiYjlS/view?usp=drive_link) |
-| Redefined pipeline | [Redefined_Pipeline.png](https://drive.google.com/file/d/1o27B05nS5hm3deaQXxHPRKqasVU2OMRR/view?usp=drive_link) |
+**Final pipeline**
+
+![Final pipeline](pipeline%20docs/final_flowchart.jpg)
+
+**Redefined pipeline**
+
+![Redefined pipeline](pipeline%20docs/Redefined_Pipeline.jpg)
 
 ### Execution recordings
 
-| Description | Link |
-|-------------|------|
-| Dataset and heatmaps | [DatasetAndHeatmaps.webm](https://drive.google.com/file/d/1Ad8Tr0Y9BF1foGgpjqS5a3owd-Ju9_6o/view?usp=drive_link) |
-| Splatting simulation (final) | [splattingSimulation_final.webm](https://drive.google.com/file/d/1SysWv01W99xzuMKSFNndvJh1s-5i-Vjm/view?usp=drive_link) |
-| Training the model | [training / splatting video](https://drive.google.com/file/d/1SysWv01W99xzuMKSFNndvJh1s-5i-Vjm/view?usp=drive_link) |
+**Dataset and heatmaps**
+
+<video src="DatasetAndHeatmaps.webm" controls width="640"></video>
+
+**Splatting simulation (final)**
+
+<video src="splattingSimulation_final.webm" controls width="640"></video>
+
+**Training the model**
+
+<video src="train.webm" controls width="640"></video>
+
 ---
 
 ## References
