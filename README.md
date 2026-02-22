@@ -37,13 +37,14 @@ Experiments use the original `data_collection/scene_data` dataset plus `example_
 
 ### Execution recordings
 
-Click each link to view or download the video (GitHub does not embed video in READMEs).
+The same files are also included in this repository.
 
-| Description | Video |
+| Description | Output |
 |-------------|-------|
-| Dataset and heatmaps | [DatasetAndHeatmaps.webm](DatasetAndHeatmaps.webm) |
-| Splatting simulation (final) | [splattingSimulation_final.webm](splattingSimulation_final.webm) |
-| Training the model | [train.webm](train.webm) |
+| Dataset and heatmaps | [DatasetAndHeatmaps.webm](https://drive.google.com/file/d/1Ad8Tr0Y9BF1foGgpjqS5a3owd-Ju9_6o/view?usp=drive_link) |
+| Splatting simulation (final) | [splattingSimulation_final.webm](https://drive.google.com/file/d/1SysWv01W99xzuMKSFNndvJh1s-5i-Vjm/view?usp=drive_link) |
+| Training the model | [train.webm](https://drive.google.com/file/d/1SysWv01W99xzuMKSFNndvJh1s-5i-Vjm/view?usp=drive_link) |
+
 ---
 
 ## References
