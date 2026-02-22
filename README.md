@@ -6,7 +6,7 @@ Implementation and extensions of **GaussianGrasper** [2]: 3D Gaussian Splatting 
 
 ## Paper
 
-**Research paper:** [majorProject_8thSem.pdf](https://drive.google.com/file/d/1U0J6eT5NciKtjVC1nruPP3V1ODCdYrEB/view)
+**Research paper:** [Gaussian Graper Paper](https://drive.google.com/file/d/1U0J6eT5NciKtjVC1nruPP3V1ODCdYrEB/view)
 
 ---
 
